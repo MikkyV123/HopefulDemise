@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "HopefulDemise",
+			"Path": "..\\Source\\HopefulDemise.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "HopefulDemiseEditor",
+			"Path": "..\\Source\\HopefulDemiseEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

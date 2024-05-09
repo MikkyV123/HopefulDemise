@@ -1,0 +1,13 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\willi\\source\\repos\\hopefuldemise\\hopefuldemise\\intermediate\\build\\win64\\unrealeditor\\inc\\hopefuldemise\\uht\\hopefuldemise.init.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\willi\\source\\repos\\hopefuldemise\\hopefuldemise\\intermediate\\build\\win64\\x64\\hopefuldemiseeditor\\development\\engine\\sharedpch.engine.cpp20.h.pch",
+        "Includes": [
+            "c:\\users\\willi\\source\\repos\\hopefuldemise\\hopefuldemise\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\hopefuldemise\\definitions.hopefuldemise.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
