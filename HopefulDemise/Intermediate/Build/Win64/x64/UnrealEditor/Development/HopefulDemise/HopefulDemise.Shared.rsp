@@ -1,6 +1,6 @@
 /I "."
-/I "C:\Users\willi\source\repos\HopefulDemise\HopefulDemise\Intermediate\Build\Win64\UnrealEditor\Inc\HopefulDemise\UHT"
-/I "C:\Users\willi\source\repos\HopefulDemise\HopefulDemise\Source"
+/I "C:\Users\Michael Vlaar\Documents\GitHub\HopefulDemise\HopefulDemise\Intermediate\Build\Win64\UnrealEditor\Inc\HopefulDemise\UHT"
+/I "C:\Users\Michael Vlaar\Documents\GitHub\HopefulDemise\HopefulDemise\Source"
 /I "Runtime\Core\Public"
 /I "Runtime\Core\Internal"
 /I "Runtime\TraceLog\Public"
